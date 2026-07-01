@@ -1,3 +1,7 @@
+This repository has been archived and is no longer maintained.
+The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+It should not be used in production systems.
+
 # Theory Project Ideas
 
 This repository presents a collection of concrete and practical projects designed to have a direct impact on ongoing research within the Theory group at General Atomics.
